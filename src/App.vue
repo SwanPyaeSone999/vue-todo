@@ -19,7 +19,7 @@ body {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   text-align: center;
   color: #2c3e50;
-  margin: 0;
+  margin: 20px;
   background: #f2f2f2;
 }
 #nav {
